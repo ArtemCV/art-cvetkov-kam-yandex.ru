@@ -20,7 +20,6 @@ namespace testGitProj
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Test");
-            MessageBox.Show("Test");
         }
     }
 }
